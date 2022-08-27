@@ -16,6 +16,7 @@ classes/
 *.iml
 *.ipr
 *.iws
+*.editorconfig
 
 # vscode
 
@@ -33,6 +34,3 @@ bin/
 
 run/
 
-# brrp
-
-brrp/
